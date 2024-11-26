@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="Presentacion.VistaUsuario"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion"
+             mc:Ignorable="d" 
+            d:DesignHeight="525" d:DesignWidth="1193">
+
+    <Grid Background="#FFF7B5CA">
+        <StackPanel Background="#FFDC92AA" Orientation="Vertical" Margin="0,0,999,0">
+            <Label Width="132" Content="USUARIOS" FontFamily="Century Gothic" FontWeight="Bold" FontSize="24" Height="42" Foreground="Black" Margin="0,10,0,0"/>
+            <Image Source="Imagenes/usuarios.png" Height="50" Width="100"/>
+
+            <!--ID-->
+            <!--USUARIO-->
+            <Label Width="112" Content="USUARIO" FontFamily="Century Gothic" FontWeight="Bold" FontSize="24" Height="42" Foreground="Black" Margin="0,10,0,0"/>
+            <TextBox x:Name="txtUsuario"  TextWrapping="Wrap" Width="176" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFEF0F5A" FontSize="16" TextAlignment="Center" SelectionBrush="#FFEF0F5A" Background="#FFF7B5CA"/>
+            <!--CONTRASEÑA-->
+            <Label Width="168" Content="CONTRASEÑA" FontFamily="Century Gothic" FontWeight="Bold" FontSize="24" Height="42" Foreground="Black" Margin="0,10,0,0"/>
+            <TextBox x:Name="txtContraseña" TextWrapping="Wrap" Width="176" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFEF0F5A" FontSize="16" TextAlignment="Center" SelectionBrush="#FFEF0F5A" Background="#FFF7B5CA"/>
+            <!--Nombre-->
+            <Label Width="112" Content="NOMBRE" FontFamily="Century Gothic" FontWeight="Bold" FontSize="24" Height="42" Foreground="Black" Margin="0,10,0,0"/>
+            <TextBox x:Name="txtNombre" TextWrapping="Wrap" Width="176" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFEF0F5A" FontSize="16" TextAlignment="Center" SelectionBrush="#FFEF0F5A" Background="#FFF7B5CA"/>
+            <!--Registrar-->
+            <Button x:Name="btnRegistrar" Content="REGISTRAR" HorizontalAlignment="Center" Height="48" VerticalAlignment="Top" Width="163"  Background="#FFF7B5CA" Margin="0,20,0,0" BorderBrush="#FFEF0F5A" Foreground="Black" FontWeight="Bold" Click="btnRegistrar_Click" FontFamily="Century Gothic" FontSize="18"/>
+
+        </StackPanel>
+        <!--Eliminar-->
+        <Button Content="ELIMINAR" 
+     FontFamily="Century Gothic" 
+     Margin="1238,77,10,739" 
+     Background="Red" 
+     Foreground="#FFF4FF2F" BorderBrush="#FFF4FF2F" />
+        <!--Tabla-->
+        <StackPanel Margin="199,52,10,16">
+            <DataGrid x:Name="tablaUsuario" AutoGenerateColumns="False" Foreground="Black" HeadersVisibility="Column" ColumnWidth="*" ItemsSource="{Binding}" Height="456" Width="981">
+                <DataGrid.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#FFF085A8" Offset="0.699"/>
+                        <GradientStop Color="#FFEF0F5A" Offset="0.4"/>
+                    </LinearGradientBrush>
+                </DataGrid.Background>
+                <DataGrid.Resources>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="Background" Value="#FF1C0E2D"/>
+                        <Setter Property="Foreground" Value="#FFEF0F5A"/>
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="BorderThickness" Value="0.7"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="FontFamily" Value="Century Gothic"/>
+                        <Setter Property="FontSize" Value="24"/>
+                    </Style>
+                </DataGrid.Resources>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="100" />
+                    <DataGridTextColumn Header="Usuario" Binding="{Binding usuario}" Width="450" />
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding nombre}" Width="450" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</UserControl>

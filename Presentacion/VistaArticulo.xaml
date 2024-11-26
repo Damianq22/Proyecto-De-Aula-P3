@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="Presentacion.VistaArticulo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion"
+             mc:Ignorable="d" 
+             d:DesignHeight="525" d:DesignWidth="1193">
+    <Grid Background="#FFF7B5CA">
+
+        <StackPanel Margin="0,0,0,448" Orientation="Horizontal">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="1,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF383A8"/>
+                    <GradientStop Color="#FFDC92AA" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <Image Source="Imagenes/articulos.png" Height="40" Width="100"/>
+            <!--ID-->
+            <!--Categoria-->
+            <Label Width="113" Content="CATEGORIA" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="5,0,0,0"/>
+            <ComboBox x:Name="cbCategoria" HorizontalAlignment="Center"  DisplayMemberPath="descripcion" Width="176" Foreground="#FF291442" Height="25" />
+            <!--Descripcion-->
+            <Label Width="127" Content="DESCRIPCION" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="5,0,0,0"/>
+            <TextBox x:Name= "txtDescripcion"  TextWrapping="Wrap" Width="176" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFED3D77" FontSize="16" TextAlignment="Center" Background="#FFF7B5CA" SelectionBrush="#FFED3D77"/>
+            <!--Cantidad-->
+            <Label Width="103" Content="CANTIDAD" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="5,0,0,0"/>
+            <TextBox x:Name= "txtCantidad" TextWrapping="Wrap" Width="176" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFED3D77" FontSize="16" TextAlignment="Center" SelectionBrush="#FFED3D77" Background="#FFF7B5CA"/>
+        </StackPanel>
+
+        <!--Stackpanel2-->
+        <StackPanel Orientation="Horizontal" Margin="0,82,0,366" Height="77" Background="#FFDC92AA">
+            <!--PrecioAlquiler-->
+            <Label Width="159" Content="PRECIO ALQUILER" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="5,0,0,0"/>
+            <TextBox x:Name= "txtPrecioAlquiler" TextWrapping="Wrap" Width="176" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFED3D77" FontSize="16" TextAlignment="Center" SelectionBrush="#FFED3D77" Background="#FFF7B5CA"/>
+            <!--PrecioCompra-->
+            <Label Width="158" Content="PRECIO COMPRA" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="10,0,0,0"/>
+            <TextBox x:Name= "txtPrecioProveedor" TextWrapping="Wrap" Width="176" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFED3D77" FontSize="16" TextAlignment="Center" SelectionBrush="#FFED3D77" Background="#FFF7B5CA"/>
+            <!--Proverdor-->
+            <Label Width="117" Content="PROVEEDOR" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="10,0,0,0"/>
+            <ComboBox x:Name="cbProveedor" HorizontalAlignment="Center"  DisplayMemberPath="nombre" Width="176" Foreground="#FF291442" Height="25" />
+            <!--btnRegistrar-->
+            <Button x:Name="btnRegistrar" Content="REGISTRAR" Height="38" Width="114" Background="#FFFFEBD4" Click="btnRegistrar_Click" Foreground="#FFED3D77" FontWeight="Bold" FontFamily="Century Gothic" FontSize="16" BorderBrush="#FFED3D77" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <!--Busqueda-->
+        <StackPanel Margin="144,164,144,314" Orientation="Horizontal" Background="#FFDC92AA">
+            <Label Width="89" Content="BUSCAR:" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="25,0,0,0"/>
+            <TextBox x:Name= "txtBuscar" TextWrapping="Wrap" Width="213" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFED3D77" FontSize="16" TextAlignment="Center" KeyDown="BuscarArticulo_KeyDown" SelectionBrush="#FFED3D77" Background="#FFF7B5CA" />
+            <Button Content="🔍︎" Background="#FFFFEBD4" Height="26" Margin="5,0,0,0" Foreground="#FFE0678E" BorderBrush="#FFF7B5CA" Width="30" FontWeight="Bold"/>
+
+            <!--Filtar Categoria-->
+            <Label Width="183" Content="FILTRAR CATEGORIA" FontFamily="Century Gothic" FontWeight="Bold" FontSize="18" Height="33" Foreground="Black" Margin="35,0,0,0"/>
+            <ComboBox x:Name="cbFiltrar"  DisplayMemberPath="descripcion" SelectionChanged="CbFiltrar_SelectionChanged" Width="210" Foreground="#FF291442" Height="25" />
+            <Button Name="refrescar" Content="↻" Height="26" Width="56" BorderBrush="#FFED3D77" Background="#FFFFEBD4" Click="refrescar_Click" Margin="30,0,0,0" Foreground="#FFED3D77"/>
+
+        </StackPanel>
+
+
+        <!--Tablas-->
+        <StackPanel Margin="10,216,10,19">
+            <DataGrid x:Name="tablaArticulos" AutoGenerateColumns="False"  Foreground="Black" HeadersVisibility="Column" ColumnWidth="*" ItemsSource="{Binding}"  Height="290" Width="1174" CellEditEnding="tablaArticulos_CellEditEnding" PreviewKeyDown="tablaArticulos_PreviewKeyDown">
+                <DataGrid.Resources>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="Background" Value="#FF1C0E2D"/>
+                        <Setter Property="Foreground" Value="#FFED3D77"/>
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="BorderThickness" Value="0.7"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="FontFamily" Value="Century Gothic"/>
+                        <Setter Property="FontSize" Value="24"/>
+                    </Style>
+                </DataGrid.Resources>
+                <DataGrid.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#FFDC92AA" Offset="0.7"/>
+                        <GradientStop Color="#FFED3D77" Offset="0.4"/>
+                    </LinearGradientBrush>
+                </DataGrid.Background>
+                <!-- Definición de columnas -->
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding id}" Width="60" />
+                    <DataGridTextColumn Header="Categoria" Binding="{Binding categoria.descripcion}" Width="200" />
+                    <DataGridTextColumn Header="Descripcion" Binding="{Binding descripcion}" Width="200" />
+                    <DataGridTextColumn Header="Cantidad" Binding="{Binding cantidad}" Width="120" />
+                    <DataGridTextColumn Header="Disponible" Binding="{Binding disponible}" Width="130" />
+                    <DataGridTextColumn Header="Reparacion" Binding="{Binding reparacion}" Width="150" />
+                    <DataGridTextColumn Header="Precio Alquiler" Binding="{Binding precioAlquiler}" Width="200" />
+                    <DataGridTextColumn Header="Precio Compra" Binding="{Binding precioProveedor}" Width="200" />
+                    <DataGridTextColumn Header="Proveedor" Binding="{Binding proveedor.nombre}" Width="150" />
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </StackPanel>
+        <Button x:Name="btnEliminar" Content="ELIMINAR" FontFamily="Century Gothic" Background="#FFEF0F5A" Foreground="#FFFFEBD4" FontSize="16" BorderBrush="#FFFFEBD4" FontWeight="Bold" Margin="1054,172,25,323" Click="btnEliminar_Click" />
+
+    </Grid>
+</UserControl>

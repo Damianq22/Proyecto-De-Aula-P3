@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="Presentacion.VistaCliente"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion"
+             mc:Ignorable="d" 
+             d:DesignHeight="525" d:DesignWidth="1193">
+
+
+    <Grid Background="#FFF7B5CA">
+
+        <StackPanel Orientation="Vertical" Margin="0,0,999,0" Background="#FFDC92AA">
+
+            <Image Source="Imagenes/clientes.png" Height="53" Width="96"/>
+
+            <!--ID-->
+            <Label Content="ID" HorizontalAlignment="Center" FontSize="18" FontWeight="Bold" FontFamily="Century Gothic" Foreground="Black" Margin="0,50,0,0"/>
+            <TextBox x:Name="txtId" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="#FFFFEBD4" Background="#FFF7B5CA"/>
+            <!--Nombre-->
+            <Label Content="NOMBRE" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="18" FontFamily="Century Gothic" FontWeight="Bold" Foreground="Black" Margin="0,20,0,0"/>
+            <TextBox x:Name="txtNombre" HorizontalAlignment="Center" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" SelectionBrush="#FFFFEBD4" BorderBrush="#FFFFEBD4" Background="#FFF7B5CA"/>
+            <!--Telefono-->
+            <Label Content="TELEFONO" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="Black" FontWeight="Bold" FontFamily="Century Gothic" FontSize="18" Margin="0,20,0,0"/>
+            <TextBox x:Name="txtTelefono" HorizontalAlignment="Center" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" BorderBrush="#FFFFEBD4" SelectionBrush="#FFFFEBD4" Background="#FFF7B5CA"/>
+            <!--Direccion-->
+            <Label Content="DIRECCION" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="18" FontFamily="Century Gothic" FontWeight="Bold" Foreground="Black" Margin="0,20,0,0"/>
+            <TextBox x:Name="txtDireccion" HorizontalAlignment="Center" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" SelectionBrush="#FFFFEBD4" BorderBrush="#FFFFEBD4" Background="#FFF7B5CA"/>
+            <!--btnRegistrar-->
+            <Button x:Name="btnRegistrar" Content="REGISTRAR" HorizontalAlignment="Center"  Background="#FFF7B5CA" Height="34" Width="119" Click="Button_Click" Margin="0,50,0,0" FontWeight="Bold" Foreground="Black" BorderBrush="#FFFFEBD4"/>
+            <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Center"  Background="#FFEF0F5A" Height="34" Width="119" Margin="0,10,0,0" FontWeight="Bold" Foreground="#FFFFEBD4" BorderBrush="#FFFFEBD4" Click="btnEliminar_Click"/>
+
+        </StackPanel>
+
+        <DataGrid x:Name="tablaCliente" AutoGenerateColumns="False" Foreground="Black" HeadersVisibility="Column" ColumnWidth="*" ItemsSource="{Binding}" Margin="223,60,68,10" CellEditEnding="tablaCliente_CellEditEnding" PreviewKeyDown="tablaCliente_PreviewKeyDown">
+            <DataGrid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FFF085A8" Offset="0.699"/>
+                    <GradientStop Color="#FFEF0F5A" Offset="0.4"/>
+                </LinearGradientBrush>
+            </DataGrid.Background>
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FF1C0E2D"/>
+                    <Setter Property="Foreground" Value="#FFEF0F5A"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="BorderThickness" Value="0.7"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    <Setter Property="FontFamily" Value="Century Gothic"/>
+                    <Setter Property="FontSize" Value="24"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Cedula" Binding="{Binding Id}" Width="80" />
+                <DataGridTextColumn Header="Nombre" Binding="{Binding nombre}" Width="260" />
+                <DataGridTextColumn Header="Telefono" Binding="{Binding telefono}" Width="310" />
+                <DataGridTextColumn Header="Direccion" Binding="{Binding direccion}" Width="210" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!--Btn-->
+        <Button x:Name="refrescar" Content="↻" BorderBrush="#FFED3D77" Background="#FFFFEBD4" Foreground="#FFED3D77" FontWeight="Bold" Margin="1083,34,68,465" FontSize="11" Click="refrescar_Click"/>
+        <Label Content="Buscar por Cedula" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold" FontFamily="Century Gothic" Foreground="Black" Margin="291,14,0,477"/>
+
+        <TextBox x:Name="txtBuscar" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" BorderBrush="#FFFFEBD4" Background="White" Margin="463,23,0,0" Height="18"/>
+        <Button x:Name="buscar" Content="🔍︎" BorderBrush="#FFED3D77" Background="#FFFFEBD4" Foreground="#FFED3D77" FontWeight="Bold" Margin="731,18,424,481" FontSize="11" Click="buscar_Click"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,18 @@
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\bin\Debug\Datos.dll
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\bin\Debug\Datos.pdb
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\bin\Debug\Entidades.dll
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\bin\Debug\Entidades.pdb
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\obj\Debug\Datos.dll
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Datos\obj\Debug\Datos.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\bin\Debug\Datos.dll
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\bin\Debug\Datos.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\bin\Debug\Entidades.dll
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\bin\Debug\Entidades.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\obj\Debug\Datos.dll
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Datos\obj\Debug\Datos.pdb

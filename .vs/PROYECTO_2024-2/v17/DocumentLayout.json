@@ -1,0 +1,638 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|c:\\users\\home\\onedrive\\escritorio\\5to semestre\\proyect_rosa\\try\\proyecto\\presentacion\\vistaalquiler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaalquiler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\entidades\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistaalquiler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaalquiler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistaarticulo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaarticulo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistafacturas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistafacturas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistaarticulo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaarticulo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistafacturas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistafacturas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\logica\\logicaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|solutionrelative:logica\\logicaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\datos\\datosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|solutionrelative:datos\\datosarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistacategoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistacategoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\logica\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|solutionrelative:logica\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistacliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistacliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistadetalles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistadetalles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistausuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistausuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistaproveedor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaproveedor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistaprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistacategoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistacategoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistacliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistacliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistausuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistausuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistaproveedor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaproveedor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\logica\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|solutionrelative:logica\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\datos\\datoscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|solutionrelative:datos\\datoscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|solutionrelative:datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\datos\\datosalquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|solutionrelative:datos\\datosalquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\datos\\datoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|solutionrelative:datos\\datoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\datos\\datosproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|solutionrelative:datos\\datosproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\logica\\logicaproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|solutionrelative:logica\\logicaproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\logica\\logicacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|solutionrelative:logica\\logicacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\logica\\logicaalquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|solutionrelative:logica\\logicaalquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\vistadetalles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\vistadetalles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\logica\\logicausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356FCCE-7963-4EA0-AF66-CF7CE099291E}|Logica\\Logica.csproj|solutionrelative:logica\\logicausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\entidades\\detallealquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AABF5DF-5562-4BBA-A4D5-41A154E92ACC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\detallealquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\presentacion\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EE301E8-68DE-426D-B0F7-F2C5E9BAE2E3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\datos\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942DD273-B342-477B-AB0A-FA83838C8AC7}|Datos\\Datos.csproj|solutionrelative:datos\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\Alquiler.cs",
+              "RelativeDocumentMoniker": "Entidades\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\Alquiler.cs",
+              "RelativeToolTip": "Entidades\\Alquiler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwCIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:58:25.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VistaAlquiler.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaAlquiler.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaAlquiler.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaAlquiler.xaml",
+              "RelativeToolTip": "Presentacion\\VistaAlquiler.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T14:18:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VistaAlquiler.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaAlquiler.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaAlquiler.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaAlquiler.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaAlquiler.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:17:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VistaFacturas.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaFacturas.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaFacturas.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaFacturas.xaml",
+              "RelativeToolTip": "Presentacion\\VistaFacturas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T14:17:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VistaFacturas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaFacturas.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaFacturas.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaFacturas.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaFacturas.xaml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAqwE0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:57:57.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VistaArticulo.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaArticulo.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaArticulo.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaArticulo.xaml",
+              "RelativeToolTip": "Presentacion\\VistaArticulo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T14:18:19.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VistaArticulo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaArticulo.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaArticulo.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaArticulo.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaArticulo.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:02:56.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatosArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosArticulos.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosArticulos.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosArticulos.cs",
+              "RelativeToolTip": "Datos\\DatosArticulos.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwEsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:08.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VistaDetalles.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaDetalles.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaDetalles.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaDetalles.xaml",
+              "RelativeToolTip": "Presentacion\\VistaDetalles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T14:18:03.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogicaArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaArticulo.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaArticulo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaArticulo.cs",
+              "RelativeToolTip": "Logica\\LogicaArticulo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:03:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\Login.cs",
+              "RelativeDocumentMoniker": "Logica\\Login.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\Login.cs",
+              "RelativeToolTip": "Logica\\Login.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:42:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VistaCategoria.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCategoria.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaCategoria.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCategoria.xaml",
+              "RelativeToolTip": "Presentacion\\VistaCategoria.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T04:52:28.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VistaCliente.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCliente.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaCliente.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCliente.xaml",
+              "RelativeToolTip": "Presentacion\\VistaCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T05:12:31.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VistaUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaUsuario.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaUsuario.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaUsuario.xaml",
+              "RelativeToolTip": "Presentacion\\VistaUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T03:47:01.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VistaProveedor.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaProveedor.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaProveedor.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaProveedor.xaml",
+              "RelativeToolTip": "Presentacion\\VistaProveedor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T04:36:26.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VistaPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaPrincipal.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\VistaPrincipal.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaPrincipal.xaml",
+              "RelativeToolTip": "Presentacion\\VistaPrincipal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T08:22:12.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VistaCategoria.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCategoria.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaCategoria.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCategoria.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaCategoria.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvykAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:27:21.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VistaCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCliente.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaCliente.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaCliente.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:57:33.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VistaUsuario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaUsuario.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaUsuario.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaUsuario.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaUsuario.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwD4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:56:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VistaProveedor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaProveedor.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaProveedor.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaProveedor.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaProveedor.xaml.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAqwF8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:38:32.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\MainWindow.xaml",
+              "RelativeToolTip": "Presentacion\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T14:18:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VistaPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaPrincipal.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaPrincipal.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwvyMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:23:41.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LogicaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaCliente.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaCliente.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaCliente.cs",
+              "RelativeToolTip": "Logica\\LogicaCliente.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAASwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:37:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LogicaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaUsuario.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaUsuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaUsuario.cs",
+              "RelativeToolTip": "Logica\\LogicaUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:47:37.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Presentacion\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:41:45.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LogicaCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaCategoria.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaCategoria.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaCategoria.cs",
+              "RelativeToolTip": "Logica\\LogicaCategoria.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIA5wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:38:24.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatosCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosCategoria.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosCategoria.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosCategoria.cs",
+              "RelativeToolTip": "Datos\\DatosCategoria.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwFgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:49:37.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosUsuario.cs",
+              "RelativeToolTip": "Datos\\DatosUsuario.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:38:40.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:37:16.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DatosAlquiler.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosAlquiler.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosAlquiler.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosAlquiler.cs",
+              "RelativeToolTip": "Datos\\DatosAlquiler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAN0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:20:21.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatosProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosProveedor.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosProveedor.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosProveedor.cs",
+              "RelativeToolTip": "Datos\\DatosProveedor.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAQwH8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:58:45.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DatosCliente.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosCliente.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosCliente.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\DatosCliente.cs",
+              "RelativeToolTip": "Datos\\DatosCliente.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwFwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:00:24.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LogicaProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaProveedor.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaProveedor.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaProveedor.cs",
+              "RelativeToolTip": "Logica\\LogicaProveedor.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAxwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:51:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VistaDetalles.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaDetalles.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VistaDetalles.xaml.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\VistaDetalles.xaml.cs",
+              "RelativeToolTip": "Presentacion\\VistaDetalles.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:58:41.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DetalleAlquiler.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\DetalleAlquiler.cs",
+              "RelativeDocumentMoniker": "Entidades\\DetalleAlquiler.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\DetalleAlquiler.cs",
+              "RelativeToolTip": "Entidades\\DetalleAlquiler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:55:55.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LogicaAlquiler.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaAlquiler.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaAlquiler.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Logica\\LogicaAlquiler.cs",
+              "RelativeToolTip": "Logica\\LogicaAlquiler.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAlwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:34:23.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:36:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\App.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\App.xaml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Presentacion\\App.xaml",
+              "RelativeToolTip": "Presentacion\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T22:22:10.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\5to SEMESTRE\\PROYECT_ROSA\\Try\\Proyecto\\Datos\\BaseDatos.cs",
+              "RelativeToolTip": "Datos\\BaseDatos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:37:29.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

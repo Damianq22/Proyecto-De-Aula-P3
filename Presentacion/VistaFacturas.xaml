@@ -1,0 +1,85 @@
+﻿<UserControl x:Class="Presentacion.VistaFacturas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion"
+             mc:Ignorable="d" 
+                     d:DesignHeight="525" d:DesignWidth="1193">
+
+    <Grid Background="#FFF7B5CA">
+
+        <!--Stackpanels-->
+        <StackPanel Margin="0,0,0,401" Background="#FFDC92AA" Orientation="Horizontal">
+            <Image Source="Imagenes/facturas.png" Width="40" Height="50" Margin="10,0,0,0"/>
+
+            <!--Buscador-->
+            <Label Content="BUSCAR ID" FontFamily="Century Gothic" FontSize="20" FontWeight="Bold" Foreground="Black" Height="35" Margin="5,0,0,0"/>
+            <TextBox x:Name="txtBuscarFactura"  HorizontalAlignment="Left" TextWrapping="Wrap" Width="150" Height="25" BorderBrush="#FFFFEBD4" Foreground="#FFED3D77" FontSize="16" TextAlignment="Center" Margin="2,0,0,0" Background="#FFF7B5CA" SelectionBrush="#FFFFEBD3"/>
+            <Button x:Name="btnBuscarFactura" Content="🔍︎" Background="#FFFFEBD4" Height="26" Margin="2,0,0,0" Foreground="#FFE0678E" BorderBrush="#FFF7B5CA" Width="30" FontWeight="Bold" Click="btnBuscarFactura_Click"/>
+            <!--Estado-->
+            <Label Content="ESTADO:" FontFamily="Century Gothic" FontSize="20" FontWeight="Bold" Foreground="Black" Height="35" Margin="10,0,0,0"/>
+            <ComboBox x:Name="cbEstado" FontFamily="Century Gothic" Padding="45,0,0,0" FontSize="20" FontWeight="Bold" Foreground="#FFED3D77" Height="27" Width="169" SelectionChanged="cbEstado_SelectionChanged"/>
+            <!--FechaInicial-->
+            <DatePicker x:Name="dpFechaInicial" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="35,44,0,0" SelectedDateChanged="dpFecha_SelectedDateChanged">
+                <DatePicker.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                        <GradientStop Color="#FF3387DC"/>
+                        <GradientStop Color="#FF8399A9" Offset="0.375"/>
+                        <GradientStop Color="#FFCA1DFF" Offset="0.375"/>
+                        <GradientStop Color="#FFFAFB46" Offset="1"/>
+                    </LinearGradientBrush>
+                </DatePicker.BorderBrush>
+            </DatePicker>
+
+            <!--FechaFinal-->
+            <DatePicker x:Name="dpFechaFinal"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="35,45,0,0" SelectedDateChanged="dpFecha_SelectedDateChanged">
+                <DatePicker.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                        <GradientStop Color="#FF3387DC"/>
+                        <GradientStop Color="#FF8399A9" Offset="0.375"/>
+                        <GradientStop Color="#FFCA1DFF" Offset="0.375"/>
+                        <GradientStop Color="#FFFAFB46" Offset="1"/>
+                    </LinearGradientBrush>
+                </DatePicker.BorderBrush>
+            </DatePicker>
+
+            <Button x:Name="btnPendientes" Content="↻" Height="28" Width="51" BorderBrush="#FFED3D77" Background="#FFFFEBD4" Foreground="#FFED3D77" FontWeight="Bold" Margin="80,100,0,0" Click="btnRefrescar_Click"/>
+        </StackPanel>
+
+        <DataGrid x:Name="tablaAlquiler" AutoGenerateColumns="False" Foreground="Black" HeadersVisibility="Column" ColumnWidth="*" ItemsSource="{Binding}" Margin="10,129,10,10" SelectionChanged="tablaAlquiler_SelectionChanged" >
+            <DataGrid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FFF085A8" Offset="0.699"/>
+                    <GradientStop Color="#FFEF0F5A" Offset="0.4"/>
+                </LinearGradientBrush>
+            </DataGrid.Background>
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FF1C0E2D"/>
+                    <Setter Property="Foreground" Value="#FFEF0F5A"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="BorderThickness" Value="0.7"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    <Setter Property="FontFamily" Value="Century Gothic"/>
+                    <Setter Property="FontSize" Value="24"/>
+                </Style>
+            </DataGrid.Resources>
+            <!-- Definición de columnas -->
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding id}" Width="60" />
+                <DataGridTextColumn Header="Entrega" Binding="{Binding fechaEntrega, StringFormat=dd-MM-yyyy}" Width="150" />
+                <DataGridTextColumn Header="Devolucion" Binding="{Binding fechaDevolucion, StringFormat=dd-MM-yyyy}" Width="150" />
+                <DataGridTextColumn Header="Cliente" Binding="{Binding cliente.nombre}" Width="180" />
+                <DataGridTextColumn Header="Telefono" Binding="{Binding cliente.telefono}" Width="150" />
+                <DataGridTextColumn Header="Direccion" Binding="{Binding cliente.direccion}" Width="150" />
+                <DataGridTextColumn Header="Total" Binding="{Binding totalPago}" Width="150" />
+                <DataGridTextColumn Header="Estado" Binding="{Binding estado}" Width="150" />
+                <DataGridTextColumn Header="Usuario" Binding="{Binding usuario.usuario}" Width="150" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnEntregar" Content="Para hoy" BorderBrush="#FFED3D77" Background="#FFFFEBD4" Foreground="#FFED3D77" FontWeight="Bold" Margin="10,96,1053,401" Click="btnEntregar_Click" />
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,120 @@
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\App.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaPrincipal.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaPrincipal.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaArticulo.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaArticulo.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaCategoria.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Entidades.dll
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Logica.dll
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Datos.dll
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Logica.pdb
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\bin\Debug\Datos.pdb
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaCategoria.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaProveedor.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaProveedor.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaAlquiler.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaUsuario.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaAlquiler.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaUsuario.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaCliente.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaCliente.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaDetalles.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaDetalles.baml
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaFacturas.g.cs
+C:\Users\HOME\OneDrive\Escritorio\ParcialP3\Logica\Presentacion\obj\Debug\VistaFacturas.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Entidades.dll
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Logica.dll
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Datos.dll
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Logica.pdb
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\bin\Debug\Datos.pdb
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaAlquiler.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaArticulo.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaCategoria.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaCliente.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaDetalles.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaFacturas.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaPrincipal.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaProveedor.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaUsuario.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\App.g.cs
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaAlquiler.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaArticulo.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaCategoria.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaCliente.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaDetalles.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaFacturas.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaPrincipal.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaProveedor.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\VistaUsuario.baml
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\queli\Downloads\ProDamina\Logica\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaAlquiler.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaArticulo.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaCategoria.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaCliente.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaDetalles.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaFacturas.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaPrincipal.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaProveedor.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaUsuario.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\App.g.cs
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Entidades.dll
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Logica.dll
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Datos.dll
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Logica.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\bin\Debug\Datos.pdb
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaAlquiler.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaArticulo.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaCategoria.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaCliente.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaDetalles.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaFacturas.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaPrincipal.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaProveedor.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\VistaUsuario.baml
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Escritorio\5to SEMESTRE\PROYECT_ROSA\Try\Logica\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date

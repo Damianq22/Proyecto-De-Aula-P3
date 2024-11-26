@@ -1,0 +1,55 @@
+﻿<UserControl x:Class="Presentacion.VistaCategoria"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion"
+             mc:Ignorable="d" d:DesignHeight="525" d:DesignWidth="1193">
+
+    <Grid Background="#FFF7B5CA">
+
+        <StackPanel Margin="0,0,900,160" Background="#FFDC92AA">
+            <Image Source="Imagenes/categoria.png" Height="70" Width="100" Margin="0,20,0,0"/>
+            <!--Categoria-->
+            <Label Width="147" Content="DESCRIPCION" FontFamily="Century Gothic" FontWeight="Bold" FontSize="20" Height="33" Foreground="Black" Margin="0,30,0,0"/>
+            <TextBox x:Name="txtDescripcion" HorizontalAlignment="Center" Width="176" Foreground="#FFEF0F5A" Height="25" SelectionBrush="#FFEF0F5A" BorderBrush="#FFFFEBD4" Background="#FFF7B5CA" />
+            <Button Name="btnRegistrar" Content="REGISTRAR" Height="40" Width="173" BorderBrush="#FFFFEBD4" Background="#FFF56B97" Click="btnRegistrar_Click" Foreground="#FFFFEBD4" Margin="0,50,0,0" FontWeight="Bold"/>
+            <Button x:Name="btnEliminar" Content="ELIMINAR" FontFamily="Century Gothic" Background="#FFEF0F5A" Foreground="#FFFFEBD4" FontSize="16" BorderBrush="#FFFFEBD4" FontWeight="Bold" Width="173" Margin="0,10,0,0" Height="40" Click="btnEliminar_Click" />
+        </StackPanel>
+
+        <!--Tabla-->
+        <StackPanel Margin="298,119,10,31" Background="#FF1C0E2D">
+            <DataGrid x:Name="tablaCategoria" AutoGenerateColumns="False"  Foreground="Black" HeadersVisibility="Column" ColumnWidth="*" ItemsSource="{Binding}" Width="882" Height="370">
+                <DataGrid.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#FFF085A8" Offset="0.699"/>
+                        <GradientStop Color="#FFEF0F5A" Offset="0.4"/>
+                    </LinearGradientBrush>
+                </DataGrid.Background>
+                <DataGrid.Resources>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="Background" Value="#FF1C0E2D"/>
+                        <Setter Property="Foreground" Value="#FFEF0F5A"/>
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="BorderThickness" Value="0.7"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="FontFamily" Value="Century Gothic"/>
+                        <Setter Property="FontSize" Value="24"/>
+                    </Style>
+                </DataGrid.Resources>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding id}" Width="300" />
+                    <DataGridTextColumn Header="Descripcion" Binding="{Binding descripcion}" Width="550" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        
+        <StackPanel Margin="288,0,0,473" Background="#FFDC92AA" Orientation="Horizontal">
+            <Label Width="228" Content="CATEGORIA" FontFamily="Century Gothic" FontWeight="Bold" FontSize="36" Height="51" Foreground="Black" Margin="400,0,0,0"/>
+        </StackPanel>
+
+    </Grid>
+
+
+</UserControl>
